@@ -1,8 +1,14 @@
-## Hi there 👋
+## Hi, I'm Willy 
 
+<p align="center">
+  <strong>A junior Data Analyst from France</strong>
+</p>
+
+- 📫 How to reach me: willy.onakaya@gmail.com
+- 
+Connect with me []
 <!--
 **OnakayaWilly/OnakayaWilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -10,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: willy.onakaya@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
