@@ -13,7 +13,6 @@
   # Links
   - [Linkedin](https://www.linkedin.com/in/willy-onakaya/)
 
-![Langages GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=OnakayaWilly&layout=compact&theme=radical)
 
 
 <!--
