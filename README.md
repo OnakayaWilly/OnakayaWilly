@@ -10,6 +10,9 @@
 
 - 📫 How to reach me: willy.onakaya@gmail.com
 
+  # Links
+  - [Linkedin](https://www.linkedin.com/in/willy-onakaya/)
+
 
 <!--
 **OnakayaWilly/OnakayaWilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
